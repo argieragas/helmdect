@@ -1,0 +1,23 @@
+img{
+  height: 200px;
+  width: 250px;
+  border-radius: 7px;
+  margin-bottom: 7px;
+}
+
+div{
+  background-color: #fafafa;
+  border-radius: 7px;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.777);
+  border: 1px solid #e7e7e7;
+  padding: 7px 7px 10px 7px;
+  margin-bottom: 19px;
+}
+
+p{
+margin-left: 5px;
+}
+
+p>span{
+  font-weight: 570;
+}
